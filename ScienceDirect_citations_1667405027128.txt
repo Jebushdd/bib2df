@@ -1,0 +1,106 @@
+Liam Krueger, Jared A. Miles, Amirali Popat,
+3D printing hybrid materials using fused deposition modelling for solid oral dosage forms,
+Journal of Controlled Release,
+Volume 351,
+2022,
+Pages 444-455,
+ISSN 0168-3659,
+https://doi.org/10.1016/j.jconrel.2022.09.032.
+(https://www.sciencedirect.com/science/article/pii/S0168365922006277)
+Abstract: 3D printing in the pharmaceutical and healthcare settings is expanding rapidly, such as the rapid prototyping of orthotics, dental retainers, drug-loaded implants, and pharmaceutical solid oral dosage forms. Through 3D printing, we have the capability to precisely control dose, release kinetics, and several aesthetic features of dosage forms such as colour, shape, and texture. Additionally, polypills can be created with combinations of medications in one solid dosage form at completely customisable strengths that would be extremely difficult to obtain commercially. As the technology and formulations developed through 3D printing are expanding, the development of new hybrid materials to obtain superior formulations are also gaining momentum. In this review we collate data on the importance of developing hybrid formulations of polymers, drugs and excipients necessary to produce reliable and high-quality 3D printed dosage forms with a special emphasis on fused deposition modelling (FDM). FDM technology is one of the most widely used forms of 3D printing and has demonstrated compatibility with unique polymer-based hybrids to allow for enhanced drug delivery, protection of thermolabile drugs, modifiable release kinetics, and more. The data collated covers different categories of hybrids as well as the methods used to fabricate them, and their respective effects on the properties of 3D printed solid oral dosage forms. Therefore, this review will provide an overview of upcoming and emerging trends in pharmaceutical 3D printing formulation compositions.
+Keywords: 3D printing; Hybrid; Polymer; Polypill; Personalised medicine
+
+R. Durga Prasad Reddy, Varun Sharma,
+Additive manufacturing in drug delivery applications: A review,
+International Journal of Pharmaceutics,
+Volume 589,
+2020,
+119820,
+ISSN 0378-5173,
+https://doi.org/10.1016/j.ijpharm.2020.119820.
+(https://www.sciencedirect.com/science/article/pii/S037851732030805X)
+Abstract: The traditional healthcare method follows ‘one-size-fits-all’ criteria, which shows some limitations in rendering proper results due to varied pharmacokinetic traits of different patients. Each patient shows a different result to a set of prescribed medicines with respect to other patient. In addition, this empirical criterion is also vulnerable to develop unfavourable side-effects due to overdose or under-dose. The advancements in the field of pharmacogenetic testing has paved the way for searching solutions to achieve the goal of ‘personalized medicine’. This concept has the potential to provide more effective results as compared to the traditional technique. The technology of additive manufacturing or 3D printing can cater the need of the patient-centric principle. A wide range of 3D printing techniques provide the independence to work with a number of bio-materials. This paper carries out a systematic review methodology based on the application of this novel technology in the field of drug delivery. The materials, methods of drug administration, techniques used for printing have been elaborated along with the manufacturing of polypills with varied release profiles and geometries. Certain in vivo studies has also been reported to assess the feasibility of this technology. The concept of 4D printing in this direction has also been discussed. Finally, some excerpts on estimated future scope have also been illustrated.
+Keywords: 3D printing; Additive manufacturing techniques; Personalized medicine; Biomaterials; Drug delivery system; 4D printing
+
+Brais Muñiz Castro, Moe Elbadawi, Jun Jie Ong, Thomas Pollard, Zhe Song, Simon Gaisford, Gilberto Pérez, Abdul W. Basit, Pedro Cabalar, Alvaro Goyanes,
+Machine learning predicts 3D printing performance of over 900 drug delivery systems,
+Journal of Controlled Release,
+Volume 337,
+2021,
+Pages 530-545,
+ISSN 0168-3659,
+https://doi.org/10.1016/j.jconrel.2021.07.046.
+(https://www.sciencedirect.com/science/article/pii/S0168365921003977)
+Abstract: Three-dimensional printing (3DP) is a transformative technology that is advancing pharmaceutical research by producing personalized drug products. However, advances made via 3DP have been slow due to the lengthy trial-and-error approach in optimization. Artificial intelligence (AI) is a technology that could revolutionize pharmaceutical 3DP through analyzing large datasets. Herein, literature-mined data for developing AI machine learning (ML) models was used to predict key aspects of the 3DP formulation pipeline and in vitro dissolution properties. A total of 968 formulations were mined and assessed from 114 articles. The ML techniques explored were able to learn and provide accuracies as high as 93% for values in the filament hot melt extrusion process. In addition, ML algorithms were able to use data from the composition of the formulations with additional input features to predict the drug release of 3D printed medicines. The best prediction was obtained by an artificial neural network that was able to predict drug release times of a formulation with a mean error of ±24.29 min. In addition, the most important variables were revealed, which could be leveraged in formulation development. Thus, it was concluded that ML proved to be a suitable approach to modelling the 3D printing workflow.
+Keywords: Additive manufacturing and continuous manufacturing devices; Digital health and Industry 4.0; Personalized drug products and precision pharmaceuticals; Fused filament fabrication and fused deposition modeling; Material extrusion and drug delivery; Implant technology and tissue engineering
+
+Samiha Obeid, Marijana Madžarević, Mirjana Krkobabić, Svetlana Ibrić,
+Predicting drug release from diazepam FDM printed tablets using deep learning approach: Influence of process parameters and tablet surface/volume ratio,
+International Journal of Pharmaceutics,
+Volume 601,
+2021,
+120507,
+ISSN 0378-5173,
+https://doi.org/10.1016/j.ijpharm.2021.120507.
+(https://www.sciencedirect.com/science/article/pii/S0378517321003124)
+Abstract: The aim of this study was to apply artificial neural networks as deep learning tools in establishing a model for understanding and prediction of diazepam release from fused deposition modeling (FDM) printed tablets. Diazepam printed tablets of various shapes were created by a computer-aided design (CAD) program and prepared by fused deposition modeling using previously prepared polyvinyl alcohol/diazepam filaments via hot-melt extrusion. The surface to volume ratio (SA/V) for each shape was calculated. Printing parameters were varied including infill density (20%, 70% and 100%) and infill pattern (line and zigzag). Influence of tablet SA/V ratio and printing parameters (infill density and infill pattern) on the release of diazepam from printed tablets were modeled using self-organizing maps (SOM) and multi-layer perceptron (MLP). SOM as an unsupervised neural network was used for visualizing interrelation among the data, whereas MLP was used for the prediction of drug release properties. MLP had three layers (with structure 2-3-5) and was trained using back propagation algorithm. Input parameters for the modeling were: infill density and SA/V ratio; while output parameters were percent of drug release in five time points. The data set for network training was divided into training, validation and test sets. The dissolution rate increased with higher SA/V ratio, lower infill density (less than 50%) and zigzag infill pattern. The established ANN model was tested; calculated f 2 factors for two tested formulations (70.24 and 77.44) showed similarity between experimentally observed and predicted drug release profiles. Trained MLP network was able to predict drug release behavior as a function of infill density and SA/Vol ratio, as established design space for formulated 3D printed diazepam tablets.
+Keywords: Personalized pharmaceuticals; 3D printed tablets; Fused deposition modeling; Self organizing maps; Multi-layer perception; Drug release prediction
+
+Moe Elbadawi, Laura E. McCoubrey, Francesca K.H. Gavins, Jun Jie Ong, Alvaro Goyanes, Simon Gaisford, Abdul W. Basit,
+Harnessing artificial intelligence for the next generation of 3D printed medicines,
+Advanced Drug Delivery Reviews,
+Volume 175,
+2021,
+113805,
+ISSN 0169-409X,
+https://doi.org/10.1016/j.addr.2021.05.015.
+(https://www.sciencedirect.com/science/article/pii/S0169409X21001794)
+Abstract: Artificial intelligence (AI) is redefining how we exist in the world. In almost every sector of society, AI is performing tasks with super-human speed and intellect; from the prediction of stock market trends to driverless vehicles, diagnosis of disease, and robotic surgery. Despite this growing success, the pharmaceutical field is yet to truly harness AI. Development and manufacture of medicines remains largely in a ‘one size fits all’ paradigm, in which mass-produced, identical formulations are expected to meet individual patient needs. Recently, 3D printing (3DP) has illuminated a path for on-demand production of fully customisable medicines. Due to its flexibility, pharmaceutical 3DP presents innumerable options during formulation development that generally require expert navigation. Leveraging AI within pharmaceutical 3DP removes the need for human expertise, as optimal process parameters can be accurately predicted by machine learning. AI can also be incorporated into a pharmaceutical 3DP ‘Internet of Things’, moving the personalised production of medicines into an intelligent, streamlined, and autonomous pipeline. Supportive infrastructure, such as The Cloud and blockchain, will also play a vital role. Crucially, these technologies will expedite the use of pharmaceutical 3DP in clinical settings and drive the global movement towards personalised medicine and Industry 4.0.
+Keywords: Additive manufacturing; Translational pharmaceutics and pharmaceutical sciences; Digital therapeutics and healthcare; Drug product design and development; Computer aided design of printlets; Computational modeling and finite element analysis; Fabricating gastrointestinal drug delivery systems and dosage forms; 4D printed personalized pharmaceuticals and medical devices; Mass customization and machine learning; Falsified and counterfeit oral pharmaceutical products
+
+Shilin Chen, Zheng Li, Sanyin Zhang, Yuxin Zhou, Xiaohe Xiao, Pengdi Cui, Binjie Xu, Qinghe Zhao, Shasha Kong, Yuntao Dai,
+Emerging biotechnology applications in natural product and synthetic pharmaceutical analyses,
+Acta Pharmaceutica Sinica B,
+2022,
+,
+ISSN 2211-3835,
+https://doi.org/10.1016/j.apsb.2022.08.025.
+(https://www.sciencedirect.com/science/article/pii/S2211383522003884)
+Abstract: Pharmaceutical analysis is a discipline based on chemical, physical, biological, and information technologies. At present, biotechnological analysis is a short branch in pharmaceutical analysis; however, bioanalysis is the basis and an important part of medicine. Biotechnological approaches can provide information on biological activity and even clinical efficacy and safety, which are important characteristics of drug quality. Because of their advantages in reflecting the overall biological effects or functions of drugs and providing visual and intuitive results, some biotechnological analysis methods have been gradually applied to pharmaceutical analysis from raw material to manufacturing and final product analysis, including DNA super-barcoding, DNA-based rapid detection, multiplex ligation-dependent probe amplification, hyperspectral imaging combined with artificial intelligence, 3D biologically printed organoids, omics-based artificial intelligence, microfluidic chips, organ-on-a-chip, signal transduction pathway-related reporter gene assays, and the zebrafish thrombosis model. The applications of these emerging biotechniques in pharmaceutical analysis have been discussed in this review.
+Keywords: Biotechnology; Pharmaceutical analysis; Raw materials; Manufacturing control; Quality analysis
+
+Iria Seoane-Viaño, Jun Jie Ong, Abdul W. Basit, Alvaro Goyanes,
+To infinity and beyond: Strategies for fabricating medicines in outer space,
+International Journal of Pharmaceutics: X,
+Volume 4,
+2022,
+100121,
+ISSN 2590-1567,
+https://doi.org/10.1016/j.ijpx.2022.100121.
+(https://www.sciencedirect.com/science/article/pii/S259015672200010X)
+Abstract: Recent advancements in next generation spacecrafts have reignited public excitement over life beyond Earth. However, to safeguard the health and safety of humans in the hostile environment of space, innovation in pharmaceutical manufacturing and drug delivery deserves urgent attention. In this review/commentary, the current state of medicines provision in space is explored, accompanied by a forward look on the future of pharmaceutical manufacturing in outer space. The hazards associated with spaceflight, and their corresponding medical problems, are first briefly discussed. Subsequently, the infeasibility of present-day medicines provision systems for supporting deep space exploration is examined. The existing knowledge gaps on the altered clinical effects of medicines in space are evaluated, and suggestions are provided on how clinical trials in space might be conducted. An envisioned model of on-site production and delivery of medicines in space is proposed, referencing emerging technologies (e.g. Chemputing, synthetic biology, and 3D printing) being developed on Earth that may be adapted for extra-terrestrial use. This review concludes with a critical analysis on the regulatory considerations necessary to facilitate the adoption of these technologies and proposes a framework by which these may be enforced. In doing so, this commentary aims to instigate discussions on the pharmaceutical needs of deep space exploration, and strategies on how these may be met.
+Keywords: Future fabrication of pharmaceuticals; Additive manufacturing of drug products; Advanced drug delivery systems and technologies; Pharmacy in space; Extra-terrestrial design of formulations; Stability of medicines; Clinical pharmacokinetics and pharmacodynamics
+
+Jun Jie Ong, Brais Muñiz Castro, Simon Gaisford, Pedro Cabalar, Abdul W. Basit, Gilberto Pérez, Alvaro Goyanes,
+Accelerating 3D printing of pharmaceutical products using machine learning,
+International Journal of Pharmaceutics: X,
+Volume 4,
+2022,
+100120,
+ISSN 2590-1567,
+https://doi.org/10.1016/j.ijpx.2022.100120.
+(https://www.sciencedirect.com/science/article/pii/S2590156722000093)
+Abstract: Three-dimensional printing (3DP) has seen growing interest within the healthcare industry for its ability to fabricate personalized medicines and medical devices. However, it may be burdened by the lengthy empirical process of formulation development. Active research in pharmaceutical 3DP has led to a wealth of data that machine learning could utilize to provide predictions of formulation outcomes. A balanced dataset is critical for optimal predictive performance of machine learning (ML) models, but data available from published literature often only include positive results. In this study, in-house and literature-mined data on hot melt extrusion (HME) and fused deposition modeling (FDM) 3DP formulations were combined to give a more balanced dataset of 1594 formulations. The optimized ML models predicted the printability and filament mechanical characteristics with an accuracy of 84%, and predicted HME and FDM processing temperatures with a mean absolute error of 5.5 °C and 8.4 °C, respectively. The performance of these ML models was better than previous iterations with a smaller and a more imbalanced dataset, highlighting the importance of providing a structured and heterogeneous dataset for optimal ML performance. The optimized models were integrated in an updated web-application, M3DISEEN, that provides predictions on filament characteristics, printability, HME and FDM processing temperatures, and drug release profiles (https://m3diseen.com/predictionsFDM/). By simulating the workflow of preparing FDM-printed pharmaceutical products, the web-application expedites the otherwise empirical process of formulation development, facilitating higher pharmaceutical 3DP research throughput.
+Keywords: Additive manufacturing of pharmaceuticals; Manufacture of medicinal products; Fused filament fabrication and Fused deposition modelling; 3D printed drug products and medicines; Printing medical devices and implants; Artificial intelligence and digital health; Material extrusion and drug delivery systems
+
+Moe Elbadawi, Brais Muñiz Castro, Francesca K.H. Gavins, Jun Jie Ong, Simon Gaisford, Gilberto Pérez, Abdul W. Basit, Pedro Cabalar, Alvaro Goyanes,
+M3DISEEN: A novel machine learning approach for predicting the 3D printability of medicines,
+International Journal of Pharmaceutics,
+Volume 590,
+2020,
+119837,
+ISSN 0378-5173,
+https://doi.org/10.1016/j.ijpharm.2020.119837.
+(https://www.sciencedirect.com/science/article/pii/S037851732030822X)
+Abstract: Artificial intelligence (AI) has the potential to reshape pharmaceutical formulation development through its ability to analyze and continuously monitor large datasets. Fused deposition modeling (FDM) three-dimensional printing (3DP) has made significant advancements in the field of oral drug delivery with personalized drug-loaded formulations being designed, developed and dispensed for the needs of the patient. The FDM 3DP process begins with the production of drug-loaded filaments by hot melt extrusion (HME), followed by the printing of a drug product using a FDM 3D printer. However, the optimization of the fabrication parameters is a time-consuming, empirical trial approach, requiring expert knowledge. Here, M3DISEEN, a web-based pharmaceutical software, was developed to accelerate FDM 3D printing using AI machine learning techniques (MLTs). In total, 614 drug-loaded formulations were designed from a comprehensive list of 145 different pharmaceutical excipients, 3D printed and assessed in-house. To build the predictive tool, a dataset was constructed and models were trained and tested at a ratio of 75:25. Significantly, the AI models predicted key fabrication parameters with accuracies of 76% and 67% for the printability and the filament characteristics, respectively. Furthermore, the AI models predicted the HME and FDM processing temperatures with a mean absolute error of 8.9 °C and 8.3 °C, respectively. Strikingly, the AI models achieved high levels of accuracy by solely inputting the pharmaceutical excipient trade names. Therefore, AI provides an effective holistic modeling technology and software to streamline and advance 3DP as a significant technology within drug development. M3DISEEN is available at (http://m3diseen.com/predictions/).
+Keywords: Additive manufacturing; Feature engineering; Personalized pharmaceuticals and medicines; Gastrointestinal drug delivery; 3D printed drug products; Material extrusion; Fused filament fabrication
